@@ -1,4 +1,5 @@
 // ignore_for_file: prefer_const_constructors
+// Main file for the app
 
 import 'package:flutter/material.dart';
 import 'wordle_list.dart';

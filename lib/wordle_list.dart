@@ -1,3 +1,6 @@
+// List of 5-letter words used by Wordle.
+// (There are some more here than Wordle has.)
+//
 const List<String> wordlist = [
   'AAHED',
   'AALII',
