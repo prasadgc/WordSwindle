@@ -1,9 +1,9 @@
 # WordSwindle
 
-## Intro:
+## Intro
 WordSwindle is a cheat app for Wordle that is built using Flutter and designed to work on any smartphone or desktop.
 
-## Build instructions:
+## Build instructions
 The project (currently) has only three source files, all in the lib directory - main.dart, starter_words.dart and wordle_list.dart.
 
 You may have to set up a standard Flutter application, then copy these three files to the lib directory before building the app.
@@ -12,7 +12,7 @@ Currently, it has only been built and tested on Android phones (specifically Opp
 In theory, it can be built and deployed on iPhones also, but I don't have a Mac (required for creating an iPhone deployable).
 Hopefully it should work just as easily on iPhones.
 
-## User instructions:
+## User instructions
 WordSwindle's operation is simple and hopefully intuitive.
 
 Just enter the guesses you made on Wordle, tap the squares to set the colour clues that Wordle provided, then ask for suggestions.
@@ -20,7 +20,7 @@ WordSwindle will display all 5-letter words that fit the constraints of the colo
 
 All squares are grey by default. Tap once to turn a square yellow, twice to turn it green, and three times to turn it back to grey.
 
-## Extra features:
+## Extra features
 There are some favourite "starter words" that people use when playing Wordle.
 WordSwindle has a selectable dropdown of these starter words, so you don't have to enter them through the keyboard.
 
